@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697134459 source:e:\skola-c++\funkcijaprosjekredova2dpolja\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<cmath>
+
