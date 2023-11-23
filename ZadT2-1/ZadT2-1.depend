@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700754386 source:e:\skola-c++\zadt2-1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
